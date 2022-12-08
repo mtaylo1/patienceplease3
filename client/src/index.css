@@ -1,0 +1,185 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* col-xl */
+@media screen and (min-width: 1200px) {
+  .col-xl-1 {
+    flex: 0 0 calc(100% * 1 / 12 - 0.5%);
+  }
+
+  .col-xl-2 {
+    flex: 0 0 calc(100% * 2 / 12 - 0.5%);
+  }
+
+  .col-xl-3 {
+    flex: 0 0 calc(100% * 3 / 12 - 0.5%);
+  }
+
+  .col-xl-4 {
+    flex: 0 0 calc(100% * 4 / 12 - 0.5%);
+  }
+
+  .col-xl-5 {
+    flex: 0 0 calc(100% * 5 / 12 - 0.5%);
+  }
+
+  .col-xl-6 {
+    flex: 0 0 calc(100% * 6 / 12 - 0.5%);
+  }
+
+  .col-xl-7 {
+    flex: 0 0 calc(100% * 7 / 12 - 0.5%);
+  }
+
+  .col-xl-8 {
+    flex: 0 0 calc(100% * 8 / 12 - 0.5%);
+  }
+
+  .col-xl-9 {
+    flex: 0 0 calc(100% * 9 / 12 - 0.5%);
+  }
+
+  .col-xl-10 {
+    flex: 0 0 calc(100% * 10 / 12 - 0.5%);
+  }
+
+  .col-xl-11 {
+    flex: 0 0 calc(100% * 11 / 12 - 0.5%);
+  }
+
+  .col-xl-12 {
+    flex: 0 0 100%;
+  }
+
+  .justify-space-between-xl {
+    justify-content: space-between;
+  }
+
+  .justify-space-around-xl {
+    justify-content: space-around;
+  }
+
+  .justify-flex-start-xl {
+    justify-content: flex-start;
+  }
+
+  .justify-flex-end-xl {
+    justify-content: flex-end;
+  }
+
+  .justify-center-xl {
+    justify-content: center;
+  }
+
+  .align-stretch-xl {
+    align-items: stretch;
+  }
+
+  .align-end-xl {
+    align-items: flex-end;
+  }
+
+  .align-center-xl {
+    align-items: center;
+  }
+}
+
+/* Header  Styles Start*/
+.pageHead{
+  background-color: rgb(139, 129, 129);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.navBar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+.navBar ul li{
+ display: inline-flex;
+ padding: 10px;
+ text-decoration: none;
+}
+.mx-1{
+  display: inline-flex;
+  padding: 10px;
+  text-decoration: none;
+ }
+/* Header Styles End */
+/* Doctordashboard Start */
+.drDashboardContainer{
+  background-color: red;
+  min-height: 95vh;
+  position: relative;
+}
+
+.pName{
+  margin-top: 20PX;
+  min-height: 30PX;
+  min-width: 20PX;
+  background-color:#356C8B;
+  COLOR:rgb(146, 48, 48)
+}
+.pView{
+  position: absolute;
+  padding-left: 20px;
+  padding-top:20px;
+  background-color: #4d7e7e;
+  min-width: 80%;
+  min-height: 95vh;
+  color:rgb(255, 245, 245)
+}
+.pView h1{
+  font-size:larger
+}
+
+.pDetail{
+  position: relative;
+  background-color: #D9D9D9;
+  min-height: 40vh;
+}
+.pNote{
+  text-align: left;
+  color:#4d7e7e;
+  width: 50%;
+  min-height: 30%!important;
+}
+.pAppointment{
+  text-align: center;
+  width: 50%;
+  margin-left: 50%;
+}
+#noteBox{
+  margin-left: 20px;
+  margin-top:20px;
+  width:100%;
+  min-height:200px;
+}
+.pShoptool{
+  min-height: 50vh ;
+  text-align: center;
+  background-color: #63BABA;
+  position: relative;
+}
+.pPrescription{
+  background-color: #F2CC82;
+  position: absolute;
+  width: 20%;
+  min-height: 80%;
+}
+.pShopView{
+  background-color:#D9D9D9;
+  position: absolute;
+  margin-left:20%;
+  width: 80%;
+  min-height: 80%;
+}
+/* Doctordashboard End */
+

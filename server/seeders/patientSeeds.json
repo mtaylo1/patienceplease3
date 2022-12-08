@@ -1,0 +1,82 @@
+[
+    {
+        "patientFirstName": "Joe",
+        "patientLastName": "Patienterino",
+        "patientEmail": "hitbycar@pleasefixme.com",
+        "patientPassword": "carcrash",
+        "drNotes": "Joe claims to have been hit by a car and paralyzed so he needed 'All of the drugs'. Yet Joe walked into the office and was more than physically fine. This was displayed when he kicked me and ran away because he disagreeing with my assesment of him not being paralyzed.",
+        "drId": "639160112f364f5b34d4e314"
+    },
+    {
+        "patientFirstName": "Phil",
+        "patientLastName": "Impatient",
+        "patientEmail": "impatient@hurry.com",
+        "patientPassword": "fasterfaster",
+        "drNotes": "Phil has trouble maintaing focus and can not sit still.",
+        "drId": "639160112f364f5b34d4e311"
+    },
+    {
+        "patientFirstName": "Adam",
+        "patientLastName": "Sandler",
+        "patientEmail": "billym@ison.com",
+        "patientPassword": "Mr. Madison, what you've just said is one of the most insanely idiotic things I have ever heard. At no point in your rambling, incoherent response were you even close to anything that could be considered a rational thought. Everyone in this room is now dumber for having listened to it. I award you no points, and may God have mercy on your soul.",
+        "drNotes": "The patient had a cracked skull and bruised ego. He received it from being relentlessly beaten by Bob Barker in a Golf Tournament.",
+        "drId": "639160112f364f5b34d4e310"
+    },
+    {
+        "patientFirstName": "Even",
+        "patientLastName": "Stevens",
+        "patientEmail": "evenstevens@mail.com",
+        "patientPassword": "stevey",
+        "drNotes": "He is not even, he is quite odd. He also broke his leg.",
+        "drId": "639160112f364f5b34d4e312"
+    },
+    {
+        "patientFirstName": "Ralph",
+        "patientLastName": "Wiggum",
+        "patientEmail": "mefailenglish@thatsunpossible.cone",
+        "patientPassword": "supernintendochalmers",
+        "drNotes": "Ralph has trouble sleeping. Ralph has trouble with lots of things. It would be easier for him if he took off that Idaho costume.",
+        "drId": "639160112f364f5b34d4e313"
+    },
+    {
+        "patientFirstName": "Fred",
+        "patientLastName": "Flintstone",
+        "patientEmail": "carisrunning@stoneage.com",
+        "patientPassword": "yabbadabbadont",
+        "drNotes": "I've never seen such overworked feet. He doesn't use shoes and complains about sore feet.",
+        "drId": "639160112f364f5b34d4e315"
+    },
+    {
+        "patientFirstName": "Steve",
+        "patientLastName": "O",
+        "patientEmail": "jack@donkey.com",
+        "patientPassword": "smartstunts",
+        "drNotes": "I can't count the number of broken bones.",
+        "drId": "639160112f364f5b34d4e315"
+    },
+    {
+        "patientFirstName": "Jack",
+        "patientLastName": "Sparrow",
+        "patientEmail": "stolenship@pirate.com",
+        "patientPassword": "treasure",
+        "drNotes": "Needs to lay off the rum.",
+        "drId": "639160112f364f5b34d4e313"
+    },
+    {
+        "patientFirstName": "Bob",
+        "patientLastName": "Barker",
+        "patientEmail": "priceis@right.comeondown",
+        "patientPassword": "thepriceiswrong",
+        "drNotes": "I saw Bob fight some awful golfer on TV the day before his physical and there was not a scratch on him. Is he immortal?",
+        "drId": "639160112f364f5b34d4e314"
+    },
+    {
+        "patientFirstName": "Lochness",
+        "patientLastName": "Monster",
+        "patientEmail": "giantcrustacean@paleolithic.era",
+        "patientPassword": "threefiddy",
+        "drNotes": "I was halfway through the checkup when the patient asked for 3 fiddy.",
+        "drId": "639160112f364f5b34d4e311"
+    }
+]

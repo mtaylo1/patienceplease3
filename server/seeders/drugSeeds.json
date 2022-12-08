@@ -1,0 +1,56 @@
+[
+    {
+        "drugName": "Adderall",
+        "inventory": 128,
+        "dinNumber": 94516248,
+        "description": "Adderall is used to treat attention deficit hyperactivity disorder (ADHD) and narcolepsy. Adderall contains a combination of amphetamine and dextroamphetamine. Amphetamine and dextroamphetamine are central nervous system stimulants that affect chemicals in the brain and nerves that contribute to hyperactivity and impulse control."
+    },
+    {
+        "drugName": "Xanax",
+        "inventory": 83,
+        "dinNumber": 65495135,
+        "description": "Xanax is a benzodiazepine (ben-zoe-dye-AZE-eh-peen). It is thought that alprazolam works by enhancing the activity of certain neurotransmitters in the brain. Xanax is used to treat anxiety disorders and anxiety caused by depression. Xanax is also used to treat panic disorders with or without a fear of places and situations that might cause panic, helplessness, or embarrassment (agoraphobia)."
+    },
+    {
+        "drugName": "Ibuprofen",
+        "inventory": 8999,
+        "dinNumber": 11456875,
+        "description": "Ibuprofen is a nonsteroidal anti-inflammatory drug (NSAID). It works by reducing hormones that cause inflammation and pain in the body. Ibuprofen is used to reduce fever and treat pain or inflammation caused by many conditions such as headache, toothache, back pain, arthritis, menstrual cramps, or minor injury. Ibuprofen is used in adults and children who are at least 6 months old."
+    },
+    {
+        "drugName": "Melatonin",
+        "inventory": 103,
+        "dinNumber": 15235156,
+        "description": "Melatonin is the natural hormone your body secretes that helps to maintain your wake-sleep cycle (also called “biological clock”). Melatonin is most commonly used to: help decrease jet lag, adjust sleep cycles in the blind (non 24-Hour Sleep Wake Disorder, or Non-24) and treat shift-work sleep disorders in people with alternating work schedules for general insomnias."
+    },
+    {
+        "drugName": "Amoxicillin",
+        "inventory": 91,
+        "dinNumber": 75365142,
+        "description": "Amoxicillin is a penicillin antibiotic that fights bacteria. Amoxicillin is used to treat many different types of infection caused by bacteria, such as tonsillitis, bronchitis, pneumonia, and infections of the ear, nose, throat, skin, or urinary tract."
+    },
+    {
+        "drugName": "tramadol",
+        "inventory": 223,
+        "dinNumber": 74554745,
+        "description": "Tramadol is a strong pain medication used to treat moderate to severe pain that is not being relieved by other types of pain medicines. Tramadol is a synthetic opioid and acts in the brain and spine (central nervous system) to reduce the amount of pain you feel. The extended-release form of tramadol is for around-the-clock treatment of pain. This form of tramadol is not for use on an as-needed basis for pain."
+    },
+    {
+        "drugName": "Wellbutrin",
+        "inventory": 103,
+        "dinNumber": 22111145,
+        "description": "Wellbutrin is an antidepressant medicine that is thought to work in the brain and nerves on the chemical messengers norepinephrine and dopamine. Wellbutrin XL  is used to treat major depressive disorder (MDD) and seasonal affective disorder, and Wellbutrin SR is only used to treat major depressive disorder (MDD)."
+    },
+    {
+        "drugName": "Fentanyl",
+        "inventory": 28,
+        "dinNumber": 64564557,
+        "description": "Fentanyl is a synthetic opioid medicine used to treat moderate to severe pain, it is up to 100 times stronger than other opioids like morphine, heroin or oxycodone. Fentanyl is from the class of medicines called narcotic analgesics. Fentanyl patches are used for long lasting pain relief for constant, around the clock cancer pain. Fentanyl nasal sprays, lollipops, injections, sublingual tablets and sprays are immediate acting and used for breakthrough pain. Breakthrough pain is when you have a flare up of pain, even though you are taking regular pain medicine for chronic or persistent pain. Because fentanyl is a powerful prescription opioid it can be misused, abused and cause overdose deaths."
+    },
+    {
+        "drugName": "Ciprofloxacin",
+        "inventory": 10,
+        "dinNumber": 75475444,
+        "description": "Ciprofloxacin is a fluoroquinolone (flor-o-KWIN-o-lone) antibiotic, it is used to treat different types of bacterial infections. It is also used to treat people who have been exposed to anthrax or certain types of plague. Ciprofloxacin extended-release is only approved for use in adults. Fluoroquinolone antibiotics can cause serious or disabling side effects that may not be reversible. Ciprofloxacin should be used only for infections that cannot be treated with a safer antibiotic."
+    }
+]
