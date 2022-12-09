@@ -23,6 +23,7 @@ const PatientView = ({ currentPatient }) => {
       console.error(e);
     }
 
+    console.log(formState.drNotes)
 
   }
   const { loading, data } = useQuery(QUERY_SINGLE_PATIENT, {
@@ -37,7 +38,7 @@ const PatientView = ({ currentPatient }) => {
         <Heading size='lg'> Patient Name: {patient.patientFirstName} {patient.patientLastName}</Heading>
         <Heading mt={3} size='md'>Notes </Heading>
         <form onSubmit={handleFormSubmit}>
-          <Textarea size='3xl' h="200px" name="notes" value={formState.drNotes} ref={ref}></Textarea><br />
+          <Textarea size='3xl' h="200px" name="notes" value={patient.drNotes} ref={ref}></Textarea><br />
           <Button type="submit" mt={2}>Update Notes</Button>
         </form>
       </Box>

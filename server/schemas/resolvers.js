@@ -25,7 +25,7 @@ const resolvers = {
             return Drug.find();
         },
         patient: async (parent, { _id }) => {
-            return Patient.findOne({_id: _id} );
+            return Patient.findOne({ _id: _id });
         },
         patients: async () => {
             return Patient.find();
@@ -111,7 +111,10 @@ const resolvers = {
             const token = signToken(doctor);
 
             return { token, doctor };
-        }
+        },
+        deletePatients: async (parent, { _id }) => {
+            return await Patient.findByIdAndDelete(__dirname);
+        },
 
 
     }
